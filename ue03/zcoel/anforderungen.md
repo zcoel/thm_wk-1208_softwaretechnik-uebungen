@@ -6,8 +6,8 @@
 | A02 | Dozente können Termine beispeilsweise als Sprechstunde oder als Prüfungstermin Festlegen. | Lehrende | FA |
 | A03 | Studierende können einen gebuchten Termin direkt als iCal-Datei herunterladen, um den Termin im Kalender zu speichern. | Studierende | FA |
 | A04 | Wenn eine Lehrperson einen Termin absagt, bekommen die eingetragenen Studierenden automatisch eine Infomail. | Studierende | FA |
-| A05 | Die Oberfläche (UI) soll übersichtlich und einfach aufgebaut sein, sodass Termine schneller zu finden sind. | Studierende | QA |
 | A05 | Ein Termin kann von Studierenden ab der Startseite in maximal drei Klicks und ohne vorherige Anleitung erfolgreich gebucht werden. | Studierende | QA |
+| A06 | Die Terminübersicht soll auch bei schlechtem WLAN auf dem Campus in unter zwei Sekunden laden. | Studierende | QA |
 | A07 | Für den Zugriff auf das System ist ein bestehendes THM-Hochschulkonto nötig. | IT-Servicezentrum | RB |
 | A08 | Das System muss im Browser ohne die Installation von zusätzlichen Programmen oder Plugins laufen. | Studierende | RB |
 
